@@ -17,5 +17,5 @@ public class IntegrationGitCicdJenkinsDockerApplication {
 	git commit -m "first commit"
 	git branch -M main
 	git remote add origin https://github.com/harishankar796/integration-git-cicd-jenkins-docker.git
-	git push -u origin main*/
+	git push -u origin master*/
 }
